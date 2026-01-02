@@ -7,11 +7,10 @@ import webbrowser
 class ThumbGet(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("ThumbGet v0.0.1")
+        self.title("ThumbGet")
         self.resizable(width=False, height=False)
         self.geometry("300x200+500+50")
         self.setup_ui()
-
 
     def setup_ui(self):
 
