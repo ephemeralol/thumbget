@@ -3,3 +3,6 @@ Images are automatically put in Standard Definition, update to come where you ca
 How it works is below: <br>
 
 ![demonstration](/thumbget/demonstration.gif)
+
+# Prerequisites:
+Python 3.14 Console
