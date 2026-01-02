@@ -1,2 +1,9 @@
-Thumbnail getter by Maple / Ephemeralol in Python Open Source, using tkinter and webbrowser.
-For whatever reason this is to be taken down, it won't be taken back up. I will respect the copyrighters rightfully so.
+# Youtube Thumbnail Grabber by Maple/Ephemeralol<br>
+Made in Python, using tkinter and webbrowser. No pip, no anything. <br>
+Images are automatically put in Standard Definition, update to come where you can get it in any quality. <br>
+How it works is below: <br>
+
+![demonstration](/thumbget/demonstration.gif)
+
+# Prerequisites:
+Python 3.14 Console
